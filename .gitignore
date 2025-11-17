@@ -206,27 +206,27 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-Python cache
+#Python cache
 
 pycache/
 *.pyc
 
-Environment variables
+#Environment variables
 
 .env
 
-Local config files
+#Local config files
 
 praw.ini
 
-Large data files (GitHub has a 100MB limit)
+#Large data files (GitHub has a 100MB limit)
 
-We will upload a sample of the raw data, not the full file.
+#We will upload a sample of the raw data, not the full file.
 
 gtm_raw_comments.csv
 gtm_failed_batches.csv
 
-IDE / OS files
+#IDE / OS files
 
 .vscode/
 .DS_Store
