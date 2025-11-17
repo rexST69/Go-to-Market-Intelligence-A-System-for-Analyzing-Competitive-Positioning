@@ -205,3 +205,28 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+Python cache
+
+pycache/
+*.pyc
+
+Environment variables
+
+.env
+
+Local config files
+
+praw.ini
+
+Large data files (GitHub has a 100MB limit)
+
+We will upload a sample of the raw data, not the full file.
+
+gtm_raw_comments.csv
+gtm_failed_batches.csv
+
+IDE / OS files
+
+.vscode/
+.DS_Store
